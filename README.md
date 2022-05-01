@@ -6,3 +6,7 @@ The use, one should have the Arduino environment and any compatible board kit wi
 
 # Board Setup
 ![binary_count](https://user-images.githubusercontent.com/103550379/164896162-7042f44c-124f-4e29-8fcd-d1b0f153107a.JPG)
+
+# Video Demo
+Speed Change Button Pressed: https://www.youtube.com/watch?v=Q8deq4yxHl4
+Reverse Blinking Order Button Pressed: https://youtube.com/shorts/DGIfeyPHB2k?feature=share
