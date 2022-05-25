@@ -171,6 +171,6 @@ void loop()
     Serial.print(count);
     Serial.println(".descending");
   }
-  delay(spd);   //changes speed at which lights blink
+  delay(spd);   //speed at which lights blink
   count = count + cntDir;   //increments or decrements count depending on if cntDir is positive/negative
 }
